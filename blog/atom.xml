@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://collindang88.github.io/docusaurus_tutorial/blog</id>
-    <title>My Site Blog</title>
-    <updated>2019-05-30T00:00:00.000Z</updated>
+    <title>Cheerios Blog</title>
+    <updated>2021-07-23T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://collindang88.github.io/docusaurus_tutorial/blog"/>
-    <subtitle>My Site Blog</subtitle>
+    <subtitle>Cheerios Blog</subtitle>
     <icon>https://collindang88.github.io/docusaurus_tutorial/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[hi]]></title>
+        <id>hi</id>
+        <link href="https://collindang88.github.io/docusaurus_tutorial/blog/hi"/>
+        <updated>2021-07-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is amazing! Docusaurus is rly cool and i will try it at home]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>

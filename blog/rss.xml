@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>My Site Blog</title>
+        <title>Cheerios Blog</title>
         <link>https://collindang88.github.io/docusaurus_tutorial/blog</link>
-        <description>My Site Blog</description>
-        <lastBuildDate>Thu, 30 May 2019 00:00:00 GMT</lastBuildDate>
+        <description>Cheerios Blog</description>
+        <lastBuildDate>Fri, 23 Jul 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[hi]]></title>
+            <link>https://collindang88.github.io/docusaurus_tutorial/blog/hi</link>
+            <guid>hi</guid>
+            <pubDate>Fri, 23 Jul 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[This is amazing! Docusaurus is rly cool and i will try it at home]]></description>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://collindang88.github.io/docusaurus_tutorial/blog/welcome</link>
